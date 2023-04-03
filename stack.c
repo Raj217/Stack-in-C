@@ -43,3 +43,10 @@
 //     char_stack_set(&v1, 2, '@');
 //     printf("Stack top: %c \n", char_stack_top(&v1));
 // }
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stddef.h>
